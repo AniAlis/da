@@ -27,7 +27,7 @@
         "Correct_Answer": "Да"
       },
       {
-        "Question": "Вычислите \sqrt{0,16} - 2\sqrt{\dfrac{9}{25}}",
+        "Question": "Вычислите sqrt{0,16} - 2\sqrt{\dfrac{9}{25}}",
         "Option_1": "0,8",
         "Option_2": "-0,8",
         "Option_3": "8",
