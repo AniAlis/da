@@ -27,7 +27,7 @@
         "Correct_Answer": "Да"
       },
       {
-        "Question": "Вычислите sqrt{0,16} - 2sqrt{dfrac{9}{25}}",
+        "Question": "Вычислите sqrt0,16 - 2sqrt( 9/25)",
         "Option_1": "0,8",
         "Option_2": "-0,8",
         "Option_3": "8",
@@ -37,11 +37,11 @@
 
       {
         "Question": "Вынесите множитель из-под знака корня в выражении sqrt28",
-        "Option_1": "14sqrt{2}",
-        "Option_2": "2sqrt{3}",
-        "Option_3": "2sqrt{7}",
-        "Option_4": "7sqrt{2}",
-        "Correct_Answer": "2sqrt{7}"
+        "Option_1": "14sqrt2",
+        "Option_2": "2sqrt3",
+        "Option_3": "2sqrt7",
+        "Option_4": "7sqrt2",
+        "Correct_Answer": "2sqrt7"
       },
 
       {
