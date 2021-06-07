@@ -27,7 +27,7 @@
         "Correct_Answer": "Да"
       },
       {
-        "Question": "Вычислите sqrt{0,16} - 2\sqrt{\dfrac{9}{25}}",
+        "Question": "Вычислите sqrt{0,16} - 2sqrt{dfrac{9}{25}}",
         "Option_1": "0,8",
         "Option_2": "-0,8",
         "Option_3": "8",
@@ -37,20 +37,20 @@
 
       {
         "Question": "Вынесите множитель из-под знака корня в выражении sqrt28",
-        "Option_1": "14\sqrt{2}",
-        "Option_2": "2\sqrt{3}",
-        "Option_3": "2\sqrt{7}",
-        "Option_4": "7\sqrt{2}",
-        "Correct_Answer": "2\sqrt{7}"
+        "Option_1": "14sqrt{2}",
+        "Option_2": "2sqrt{3}",
+        "Option_3": "2sqrt{7}",
+        "Option_4": "7sqrt{2}",
+        "Correct_Answer": "2sqrt{7}"
       },
 
       {
-        "Question": "Внесите множитель под знак корня 2\sqrt{5}",
-        "Option_1": "\sqrt{9}",
-        "Option_2": "\sqrt{25}",
-        "Option_3": "\sqrt{20}",
-        "Option_4": "\sqrt{10}",
-        "Correct_Answer": "\sqrt{20}"
+        "Question": "Внесите множитель под знак корня 2sqrt{5}",
+        "Option_1": "sqrt{9}",
+        "Option_2": "sqrt{25}",
+        "Option_3": "sqrt{20}",
+        "Option_4": "sqrt{10}",
+        "Correct_Answer": "sqrt{20}"
       }
 
      
