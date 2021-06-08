@@ -1,0 +1,10 @@
+[
+    {
+        "ID_Rights": 1,
+        "Name_Rights": "Admin"
+    },
+    {
+        "ID_Rights": 2,
+        "Name_Rights": "User"
+    }
+]
