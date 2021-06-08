@@ -69,54 +69,54 @@
         "ID_Answer": 12,
         "ID_Question": 5,
         "Right_A": 0,
-        "Text_Answer": "14\\sqrt{2} "
+        "Text_Answer": "14sqrt{2} "
     },
     {
         "ID_Answer": 13,
         "ID_Question": 5,
         "Right_A": 0,
-        "Text_Answer": "2\\sqrt{3} "
+        "Text_Answer": "2sqrt{3} "
     },
     {
         "ID_Answer": 14,
         "ID_Question": 5,
         "Right_A": 1,
-        "Text_Answer": "2\\sqrt{7} "
+        "Text_Answer": "2sqrt{7} "
     },
     {
         "ID_Answer": 15,
         "ID_Question": 5,
         "Right_A": 0,
-        "Text_Answer": "7\\sqrt{2} "
+        "Text_Answer": "7sqrt{2} "
     },
     {
         "ID_Answer": 16,
         "ID_Question": 5,
         "Right_A": 0,
-        "Text_Answer": "3\\sqrt{2} "
+        "Text_Answer": "3sqrt{2} "
     },
     {
         "ID_Answer": 17,
         "ID_Question": 6,
         "Right_A": 0,
-        "Text_Answer": "\\sqrt{9} "
+        "Text_Answer": "sqrt{9} "
     },
     {
         "ID_Answer": 18,
         "ID_Question": 6,
         "Right_A": 0,
-        "Text_Answer": "\\sqrt{25} "
+        "Text_Answer": "sqrt{25} "
     },
     {
         "ID_Answer": 19,
         "ID_Question": 6,
         "Right_A": 1,
-        "Text_Answer": "\\sqrt{20} "
+        "Text_Answer": "sqrt{20} "
     },
     {
         "ID_Answer": 20,
         "ID_Question": 6,
         "Right_A": 0,
-        "Text_Answer": "\\sqrt{10} "
+        "Text_Answer": "sqrt{10} "
     }
 ]
